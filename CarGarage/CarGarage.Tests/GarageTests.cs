@@ -9,8 +9,8 @@ namespace CarGarage.Tests
         public void shouldAddCarToGarage()
         {
             // Tests AddCar() method
-            // Act
             // Arrange
+            // Act
             // Assert
         }
 
@@ -18,8 +18,8 @@ namespace CarGarage.Tests
         public void shouldRemoveCarFromGarage()
         {
             // Tests RemoveCar() method
-            // Act
             // Arrange
+            // Act
             // Assert
         }
 
@@ -27,8 +27,8 @@ namespace CarGarage.Tests
         public void shouldFuelAllCars()
         {
             // Tests FuelAllCars() method
-            // Act
             // Arrange
+            // Act
             // Assert
         }
 
@@ -37,8 +37,8 @@ namespace CarGarage.Tests
         {
             // Tests DriveCar() method which lets you select a single car
             // Program class should then let you choose what you want to do with that car
-            // Act
             // Arrange
+            // Act
             // Assert
         }
 

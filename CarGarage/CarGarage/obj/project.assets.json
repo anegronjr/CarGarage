@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage\\CarGarage.csproj",
+      "projectUniqueName": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage\\CarGarage.csproj",
       "projectName": "CarGarage",
-      "projectPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage\\CarGarage.csproj",
+      "projectPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage\\CarGarage.csproj",
       "packagesPath": "C:\\Users\\WeCanCodeIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage\\obj\\",
+      "outputPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

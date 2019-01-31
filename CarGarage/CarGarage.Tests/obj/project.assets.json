@@ -5765,11 +5765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage.Tests\\CarGarage.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage.Tests\\CarGarage.Tests.csproj",
       "projectName": "CarGarage.Tests",
-      "projectPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage.Tests\\CarGarage.Tests.csproj",
+      "projectPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage.Tests\\CarGarage.Tests.csproj",
       "packagesPath": "C:\\Users\\WeCanCodeIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage.Tests\\obj\\",
+      "outputPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5788,8 +5788,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage\\CarGarage.csproj": {
-              "projectPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarage\\CarGarage\\CarGarage.csproj"
+            "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage\\CarGarage.csproj": {
+              "projectPath": "C:\\Users\\WeCanCodeIT\\CleFTSpring19Exercises\\CarGarageExercise\\CarGarage\\CarGarage\\CarGarage.csproj"
             }
           }
         }
