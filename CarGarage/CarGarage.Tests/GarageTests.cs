@@ -35,11 +35,9 @@ namespace CarGarage.Tests
         [Fact]
         public void shouldTestDriveOneCar()
         {
-            // Tests DriveCar() method which lets you select a single car
+            // Use the Program class to let you select a single car
             // Program class should then let you choose what you want to do with that car
-            // Arrange
-            // Act
-            // Assert
+            // You do not need to test user input in the Program class
         }
 
         [Fact]
