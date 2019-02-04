@@ -10,8 +10,13 @@ namespace CarGarage.Tests
         {
             // Tests AddCar() method
             // Arrange
+            var testGarage = new Garage();
+
             // Act
+            testGarage.AddCar();
+
             // Assert
+            Assert.NotEmpty(testGarage.Cars);
         }
 
         [Fact]
@@ -19,8 +24,14 @@ namespace CarGarage.Tests
         {
             // Tests RemoveCar() method
             // Arrange
+            var testGarage = new Garage();
+
             // Act
+            testGarage.AddCar();
+            testGarage.RemoveCar(0);
+
             // Assert
+            Assert.Empty(testGarage.Cars);
         }
 
         [Fact]
@@ -28,8 +39,17 @@ namespace CarGarage.Tests
         {
             // Tests FuelAllCars() method
             // Arrange
+            var testGarage = new Garage();
+
             // Act
+            testGarage.AddCar();
+            testGarage.FuelAllCars();
+
             // Assert
+            foreach (var car in testGarage.Cars)
+            {
+                Assert.Equal(100, car.GasLevel);
+            }
         }
 
         [Fact]
